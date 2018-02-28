@@ -87,7 +87,7 @@ get_header(); ?>
 										<li>Usability Testing</li>
 										<li>Digital Analytics</li>
 										<li>Statistical Modeling</li>
-										<li>Heuristic Evalution</li>
+										<li>Heuristic Evaluation</li>
 									</ul>
 								</div>
 							</a>
